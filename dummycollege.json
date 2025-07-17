@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "code": "IITD",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "IIT",
+    "counsellingId": "64e112ac12e5e3b8e2a5f1a1",
+    "university": "IIT",
+    "isAutonomous": true,
+    "availableBranches": ["CSE", "ECE", "ME", "CE"]
+  },
+  {
+    "name": "National Institute of Technology Trichy",
+    "code": "NITT",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "NIT",
+    "counsellingId": "64e112ac12e5e3b8e2a5f1a2",
+    "university": "NIT",
+    "isAutonomous": true,
+    "availableBranches": ["CSE", "EEE", "ME", "CE"]
+  },
+  {
+    "name": "Indian Institute of Information Technology Hyderabad",
+    "code": "IIITH",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "IIIT",
+    "counsellingId": "64e112ac12e5e3b8e2a5f1a3",
+    "university": "IIIT-H",
+    "isAutonomous": true,
+    "availableBranches": ["CSE", "ECE"]
+  },
+  {
+    "name": "Delhi Technological University",
+    "code": "DTU",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "GFTI",
+    "counsellingId": "64e112ac12e5e3b8e2a5f1a4",
+    "university": "DTU",
+    "isAutonomous": false,
+    "availableBranches": ["CSE", "ECE", "IT", "ME"]
+  },
+  {
+    "name": "Vellore Institute of Technology",
+    "code": "VIT",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "counsellingId": "64e112ac12e5e3b8e2a5f1a5",
+    "university": "VIT",
+    "isAutonomous": true,
+    "availableBranches": ["CSE", "IT", "ECE", "ME"]
+  }
+]

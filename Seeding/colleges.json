@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "64college001",
+    "name": "IIT Bombay",
+    "code": "IITB",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "IIT",
+    "university": "IIT Bombay",
+    "isAutonomous": true
+  },
+  {
+    "_id": "64college002",
+    "name": "NIT Trichy",
+    "code": "NITT",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "NIT",
+    "university": "NIT Trichy",
+    "isAutonomous": true
+  },
+  {
+    "_id": "64college003",
+    "name": "IIIT Hyderabad",
+    "code": "IIITH",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "IIIT",
+    "university": "IIIT-H",
+    "isAutonomous": true
+  }
+]

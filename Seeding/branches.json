@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "64branch001",
+    "name": "Computer Science and Engineering",
+    "code": "CSE",
+    "degree": "B.Tech",
+    "duration": 4
+  },
+  {
+    "_id": "64branch002",
+    "name": "Electrical Engineering",
+    "code": "EE",
+    "degree": "B.Tech",
+    "duration": 4
+  },
+  {
+    "_id": "64branch003",
+    "name": "Mechanical Engineering",
+    "code": "ME",
+    "degree": "B.Tech",
+    "duration":4
+}
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "64counsel001",
+    "name": "JoSAA",
+    "year": 2024,
+    "exam": "JEE Main",
+    "description": "JoSAA counselling for IITs, NITs, IIITs"
+  },
+  {
+    "_id": "64counsel002",
+    "name": "JAC Delhi",
+    "year": 2024,
+    "exam": "JEE Main",
+    "description": "JAC Delhi counselling for DTU, NSUT, IGDTUW"
+  }
+]

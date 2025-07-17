@@ -1,0 +1,902 @@
+[
+  {
+    "_id": "64predict0000",
+    "studentId": "64student0000",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 2225,
+        "predictedChance": 94.61
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0001",
+    "studentId": "64student0001",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 969,
+        "predictedChance": 92.36
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0002",
+    "studentId": "64student0002",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 2382,
+        "predictedChance": 64.94
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0003",
+    "studentId": "64student0003",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1794,
+        "predictedChance": 79.33
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0004",
+    "studentId": "64student0004",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4267,
+        "predictedChance": 86.42
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0005",
+    "studentId": "64student0005",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 324,
+        "predictedChance": 80.94
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0006",
+    "studentId": "64student0006",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 425,
+        "predictedChance": 93.59
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0007",
+    "studentId": "64student0007",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4522,
+        "predictedChance": 78.83
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0008",
+    "studentId": "64student0008",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1698,
+        "predictedChance": 60.23
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0009",
+    "studentId": "64student0009",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 311,
+        "predictedChance": 72.93
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0010",
+    "studentId": "64student0010",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 2408,
+        "predictedChance": 92.96
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0011",
+    "studentId": "64student0011",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4778,
+        "predictedChance": 74.93
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0012",
+    "studentId": "64student0012",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 3744,
+        "predictedChance": 78.23
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0013",
+    "studentId": "64student0013",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 3817,
+        "predictedChance": 70.32
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0014",
+    "studentId": "64student0014",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 997,
+        "predictedChance": 85.07
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0015",
+    "studentId": "64student0015",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1082,
+        "predictedChance": 75.55
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0016",
+    "studentId": "64student0016",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 3641,
+        "predictedChance": 77.26
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0017",
+    "studentId": "64student0017",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 811,
+        "predictedChance": 90.26
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0018",
+    "studentId": "64student0018",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 2381,
+        "predictedChance": 85.61
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0019",
+    "studentId": "64student0019",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1054,
+        "predictedChance": 93.9
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0020",
+    "studentId": "64student0020",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 747,
+        "predictedChance": 86.05
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0021",
+    "studentId": "64student0021",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1922,
+        "predictedChance": 85.46
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0022",
+    "studentId": "64student0022",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 2779,
+        "predictedChance": 65.49
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0023",
+    "studentId": "64student0023",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 2847,
+        "predictedChance": 69.66
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0024",
+    "studentId": "64student0024",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4301,
+        "predictedChance": 83.52
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0025",
+    "studentId": "64student0025",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 706,
+        "predictedChance": 84.74
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0026",
+    "studentId": "64student0026",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 2678,
+        "predictedChance": 91.23
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0027",
+    "studentId": "64student0027",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 414,
+        "predictedChance": 75.17
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0028",
+    "studentId": "64student0028",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4370,
+        "predictedChance": 71.11
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0029",
+    "studentId": "64student0029",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4672,
+        "predictedChance": 83.14
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0030",
+    "studentId": "64student0030",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 391,
+        "predictedChance": 93.22
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0031",
+    "studentId": "64student0031",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 165,
+        "predictedChance": 68.61
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0032",
+    "studentId": "64student0032",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4903,
+        "predictedChance": 73.17
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0033",
+    "studentId": "64student0033",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1903,
+        "predictedChance": 83.57
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0034",
+    "studentId": "64student0034",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 2273,
+        "predictedChance": 76.45
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0035",
+    "studentId": "64student0035",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4069,
+        "predictedChance": 88.49
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0036",
+    "studentId": "64student0036",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4169,
+        "predictedChance": 69.89
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0037",
+    "studentId": "64student0037",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1726,
+        "predictedChance": 82.22
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0038",
+    "studentId": "64student0038",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 826,
+        "predictedChance": 93.28
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0039",
+    "studentId": "64student0039",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1854,
+        "predictedChance": 60.11
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0040",
+    "studentId": "64student0040",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 651,
+        "predictedChance": 77.17
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0041",
+    "studentId": "64student0041",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1808,
+        "predictedChance": 84.85
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0042",
+    "studentId": "64student0042",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.656231",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 417,
+        "predictedChance": 74.64
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.656231",
+    "updatedAt": "2025-06-26T12:51:19.656231"
+  },
+  {
+    "_id": "64predict0043",
+    "studentId": "64student0043",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.657262",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 2255,
+        "predictedChance": 81.47
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.657262",
+    "updatedAt": "2025-06-26T12:51:19.657262"
+  },
+  {
+    "_id": "64predict0044",
+    "studentId": "64student0044",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.657262",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4883,
+        "predictedChance": 68.22
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.657262",
+    "updatedAt": "2025-06-26T12:51:19.657262"
+  },
+  {
+    "_id": "64predict0045",
+    "studentId": "64student0045",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.657262",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 2956,
+        "predictedChance": 76.95
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.657262",
+    "updatedAt": "2025-06-26T12:51:19.657262"
+  },
+  {
+    "_id": "64predict0046",
+    "studentId": "64student0046",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.657262",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1575,
+        "predictedChance": 90.73
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.657262",
+    "updatedAt": "2025-06-26T12:51:19.657262"
+  },
+  {
+    "_id": "64predict0047",
+    "studentId": "64student0047",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.657262",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 1999,
+        "predictedChance": 90.63
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.657262",
+    "updatedAt": "2025-06-26T12:51:19.657262"
+  },
+  {
+    "_id": "64predict0048",
+    "studentId": "64student0048",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.657262",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 4073,
+        "predictedChance": 77.16
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.657262",
+    "updatedAt": "2025-06-26T12:51:19.657262"
+  },
+  {
+    "_id": "64predict0049",
+    "studentId": "64student0049",
+    "counsellingId": "64counsel001",
+    "predictionDate": "2025-06-26T12:51:19.657262",
+    "predictedColleges": [
+      {
+        "collegeId": "64college001",
+        "branchId": "64branch001",
+        "round": 6,
+        "category": "GEN",
+        "closingRank": 3312,
+        "predictedChance": 80.92
+      }
+    ],
+    "createdAt": "2025-06-26T12:51:19.657262",
+    "updatedAt": "2025-06-26T12:51:19.657262"
+  }
+]
