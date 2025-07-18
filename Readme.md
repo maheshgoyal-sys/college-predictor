@@ -1,1 +1,1 @@
-Base URL:https://college-predictor-jdcv.onrender.com/
+Base URL:https://ranktocollege.onrender.com
