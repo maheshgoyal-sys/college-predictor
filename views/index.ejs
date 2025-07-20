@@ -10,7 +10,7 @@
 
 <body class="bg-gray-100 text-gray-800 font-sans">
   <!-- Navbar -->
-  <nav class="bg-white shadow-md sticky top-0 z-50">
+ <nav class="bg-white shadow-md sticky top-0 z-50">
     <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
       <div class="flex items-center space-x-3">
         <img src="../images/CollegePredictor.png" alt="Logo" class="h-12 w-12 object-contain" />
@@ -239,6 +239,17 @@
       answer.classList.add('hidden');
     });
   });
+ 
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggle = document.getElementById("nav-toggle");
+    const menu = document.getElementById("mobile-menu");
+
+    toggle.addEventListener("click", () => {
+      menu.classList.toggle("hidden");
+    });
+  });
+
+
 
   // Script to add/remove hover animation manually (optional enhancement) 
   // const btn = document.getElementById('predictBtn');
