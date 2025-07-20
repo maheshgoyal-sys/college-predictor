@@ -139,96 +139,96 @@ app.post('/colleges/read', async (req, res) => {
     res.render('readColleges', { colleges: [] });
   }
 });
-// app.post('/predict', async (req, res) => {
-//   try {
-//     const { rank, category, gender, counselling, homeState, pwd } = req.body;
+app.post('/predict', async (req, res) => {
+  try {
+    const { rank, category, gender, counselling, homeState, pwd } = req.body;
 
-//     const categoryMap = {
-//       'GEN': 'OPEN',
-//       'OBC-NCL': 'OBC-NCL',
-//       'SC': 'SC',
-//       'ST': 'ST'
-//     };
+    const categoryMap = {
+      'GEN': 'OPEN',
+      'OBC-NCL': 'OBC-NCL',
+      'SC': 'SC',
+      'ST': 'ST'
+    };
 
-//     const resolvedCategory = categoryMap[category];
-//     const finalCategory = pwd ? `${resolvedCategory}-PwD` : resolvedCategory;
+    const resolvedCategory = categoryMap[category];
+    const finalCategory = pwd ? `${resolvedCategory}-PwD` : resolvedCategory;
 
-//     const genderList = gender === 'Female'
-//   ? ['Gender-Neutral', 'Female-only (including Supernumerary)']
-//   : ['Gender-Neutral'];
-
-
-//     const numericRank = parseInt(rank);
-//     let quotaValues;
-
-// if (counselling === 'JoSAA') {
-//   quotaValues = ['HS', 'OS']; // JoSAA does not use 'AI'
-// } else if (counselling === 'CSAB') {
-//   quotaValues = ['AI', 'HS', 'OS']; // CSAB uses 'AI'
-// } else {
-//   quotaValues = ['HS', 'OS']; // default fallback
-// }
+    const genderList = gender === 'Female'
+  ? ['Gender-Neutral', 'Female-only (including Supernumerary)']
+  : ['Gender-Neutral'];
 
 
-// const queryConditions = {
-//   category: finalCategory,
-//   gender: { $in: genderList },
-//   quota: { $in: quotaValues },
-//   year: 2024,
-//   openingRank: { $lte: numericRank },
-//   closingRank: { $gte: numericRank }
-// };
+    const numericRank = parseInt(rank);
+    let quotaValues;
+
+if (counselling === 'JoSAA') {
+  quotaValues = ['HS', 'OS']; // JoSAA does not use 'AI'
+} else if (counselling === 'CSAB') {
+  quotaValues = ['AI', 'HS', 'OS']; // CSAB uses 'AI'
+} else {
+  quotaValues = ['HS', 'OS']; // default fallback
+}
 
 
-//     console.log("✅ Final Query Conditions:", queryConditions);
-//     console.log("🔍 Query Conditions:", JSON.stringify(queryConditions, null, 2));
+const queryConditions = {
+  category: finalCategory,
+  gender: { $in: genderList },
+  quota: { $in: quotaValues },
+  year: 2024,
+  openingRank: { $lte: numericRank },
+  closingRank: { $gte: numericRank }
+};
+
+
+    console.log("✅ Final Query Conditions:", queryConditions);
+    console.log("🔍 Query Conditions:", JSON.stringify(queryConditions, null, 2));
     
-//     const testDoc = await College.findOne({});
-// console.log("📌 One College Doc:", testDoc);
-// const collections = await mongoose.connection.db.listCollections().toArray();
-// console.log("📂 Available Collections:", collections.map(c => c.name));
-//   const test1 = await mainCollege.find({ category: "OPEN-PwD" });
-// console.log("Found OPEN-PwD entries:", test1.length);
+    const testDoc = await College.findOne({});
+console.log("📌 One College Doc:", testDoc);
+const collections = await mongoose.connection.db.listCollections().toArray();
+console.log("📂 Available Collections:", collections.map(c => c.name));
+  const test1 = await mainCollege.find({ category: "OPEN-PwD" });
+console.log("Found OPEN-PwD entries:", test1.length);
 
 
-//     // let colleges = await College.find(queryConditions).lean();
-// let colleges = await mainCollege.find({
-//   category: finalCategory, // e.g. 'OPEN', 'OBC-NCL', 'SC', 'ST', etc.
-//   gender: { $in: genderList }, // ['Gender-Neutral'] or ['Gender-Neutral', 'Female-only (including Supernumerary)']
-//   quota: { $in: quotaValues }, // ['AI', 'HS', 'OS'] ya ['HS', 'OS']
-//   year: 2024,
-//   openingRank: { $lte: numericRank }, // e.g. 8042
-//   closingRank: { $gte: numericRank }
-// });
+    // let colleges = await College.find(queryConditions).lean();
+let colleges = await mainCollege.find({
+  category: finalCategory, // e.g. 'OPEN', 'OBC-NCL', 'SC', 'ST', etc.
+  gender: { $in: genderList }, // ['Gender-Neutral'] or ['Gender-Neutral', 'Female-only (including Supernumerary)']
+  quota: { $in: quotaValues }, // ['AI', 'HS', 'OS'] ya ['HS', 'OS']
+  year: 2024,
+  openingRank: { $lte: numericRank }, // e.g. 8042
+  closingRank: { $gte: numericRank }
+});
 
-// console.log("🧪 Test Hardcoded Match:", colleges);
+console.log("🧪 Test Hardcoded Match:", colleges);
 
-//     console.log("📊 Found Colleges:", colleges.length);
+    console.log("📊 Found Colleges:", colleges.length);
 
-//     console.log("📦 Fetched from DB:", colleges.length);
+    console.log("📦 Fetched from DB:", colleges.length);
 
-//     // JoSAA home state filter logic
-// if (counselling === 'JoSAA') {
-//   colleges = colleges.filter(clg => {
-//     if (clg.quota === 'HS') return clg.state === homeState;
-//     if (clg.quota === 'OS') return clg.state !== homeState;
-//     return false; // filter out others like AI (shouldn't be there anyway)
-//   });
-// }
+    // JoSAA home state filter logic
+if (counselling === 'JoSAA') {
+  colleges = colleges.filter(clg => {
+    if (clg.quota === 'HS') return clg.state === homeState;
+    if (clg.quota === 'OS') return clg.state !== homeState;
+    return false; // filter out others like AI (shouldn't be there anyway)
+  });
+}
 
-// console.log("📤 After JoSAA Home State filter:", colleges.length);
+console.log("📤 After JoSAA Home State filter:", colleges.length);
 
 
 
-//     // Sort results
-//     colleges.sort((a, b) => a.openingRank - b.openingRank);
+    // Sort results
+    colleges.sort((a, b) => a.openingRank - b.openingRank);
 
-//     res.json(colleges.slice(0, 50));
-//   } catch (err) {
-//     console.error('❌ Prediction Error:', err);
-//     res.status(500).json({ error: "Something went wrong" });
-//   }
-// });
+    res.json(colleges.slice(0, 50));
+  } catch (err) {
+    console.error('❌ Prediction Error:', err);
+    res.status(500).json({ error: "Something went wrong" });
+  }
+});
 app.get('/register',(req,res)=>{
     res.render("register", { isAuthenticated: req.isAuthenticated, userName: req.user ? req.user.email : null });
  
